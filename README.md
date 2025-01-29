@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @umutbayar
-- 👀 I’m interested in blockchain,Web 3, Full stack things etc...
-- 🌱 I’m currently learning Java , C , NodeJS , Pyhton and Solidity
-- 💞️ I’m looking to collaborate on friends who interest same thing with me
-- 📫 How to reach me ... You can reach me from my email--->  Umutbayar249_-@hotmail.com
+- 👀 I’m interested in Data Science, Machine Learning, and AI applications
+- 🌱 I’m currently learning Python, SQL, TensorFlow, and cloud computing technologies
+- 💞️ I’m looking to collaborate on projects related to data science and AI
+- 📫 How to reach me: You can reach me via email → Umutbayar1343@gmail.com
 
 <!---
 umutbayar/umutbayar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
